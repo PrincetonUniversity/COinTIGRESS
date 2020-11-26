@@ -5,8 +5,9 @@ to read these data.
 
 See **wiki pages** for a detailed guide.
 
-the **.ipynb** ipython notebooks are examples of reading the data, and the **module/** folder
-contains .py modules that can be useful.
+the **.ipynb** ipython notebooks are examples of reading the data.
+I also saved them in the **.html** format for easy quick viewing.
+The **module/** folder contains .py modules that can be useful.
 
 For TIGRESSxPHANGS.
 
