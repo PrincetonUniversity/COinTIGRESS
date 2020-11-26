@@ -843,8 +843,8 @@ class Images:
         #make a copy of the class
         img_copy = copy.deepcopy(self)
         #rescale image
-        img_copy.nx = self.nx / factor
-        img_copy.ny = self.ny / factor
+        img_copy.nx = int(self.nx / factor)
+        img_copy.ny = int(self.ny / factor)
         img_copy.dx = self.dx * factor
         img_copy.dy = self.dy * factor
         img_copy.image = []

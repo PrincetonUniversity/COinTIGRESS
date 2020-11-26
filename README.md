@@ -9,3 +9,5 @@ the **.ipynb** ipython notebooks are examples of reading the data, and the **mod
 contains .py modules that can be useful.
 
 For TIGRESSxPHANGS.
+
+Please contact Munan Gong if you have questions! Enjoy :)
